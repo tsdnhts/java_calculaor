@@ -5,4 +5,4 @@
 
 기존에 강의 들으면서 만들던걸 올려서
 
-calculator => App4로 보시면 됩니다
+First.java => src => calculator => App4로 보시면 됩니다
